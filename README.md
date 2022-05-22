@@ -15,8 +15,8 @@ you can use every file on its own they are not dependent on each other
 ### CONTENT
 
 1. Vector
-  *vec2
-  *vec3
-  *vec4
-2. matrix
-  *mat4
+  * vec2
+  - vec3
+  - vec4
+2. Matrix
+  - mat4
