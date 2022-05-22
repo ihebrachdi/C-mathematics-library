@@ -7,7 +7,7 @@ and it use the same naming conventions as GLSL
 
 ### USE
 
-simply download this folder into you project directory or just copy the *hpp and cpp* files  you want to include in your project
+simply download the source folder into you project directory or just copy the *hpp and cpp* files  you want to include in your project
 you can use every file on its own they are not dependent on each other
 
 ---
@@ -15,8 +15,8 @@ you can use every file on its own they are not dependent on each other
 ### CONTENT
 
 1. Vector
-  * vec2
-  - vec3
-  - vec4
+   * vec2
+   - vec3
+   - vec4
 2. Matrix
-  - mat4
+   - mat4
