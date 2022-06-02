@@ -1,7 +1,7 @@
 # C++ mathematics-library
 
 c++ mathematics library provides a collection of structures ,functions and operator overloading for performing common linear algebra operations
-and it use the same naming conventions as GLSL
+using the same naming conventions as GLSL
 
 ---
 
